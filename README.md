@@ -47,7 +47,7 @@ Version 0.1</h5>
 
 ---
 <p align="center">
-  <img src="./img/demo-01.gif" alt="Mock Up of App" width="650")
+  <img src="./client/public/demo-01.gif" alt="Mock Up of App" width="650")
 </p>
 
 <br>
@@ -55,7 +55,7 @@ Version 0.1</h5>
 <br>
 
 <p align="center">
-  <img src="./img/demo-02.gif" alt="Mock Up of App" width="650")
+  <img src="./client/public/demo-02.gif" alt="Mock Up of App" width="650")
 </p>
 
 <br>
@@ -63,7 +63,7 @@ Version 0.1</h5>
 <br>
 
 <p align="center">
-  <img src="./img/demo-03.gif" alt="Mock Up of App" width="650")
+  <img src="./client/public/demo-03.gif" alt="Mock Up of App" width="650")
 </p>
 
 <br>
@@ -75,7 +75,7 @@ Version 0.1</h5>
 ---
 
 <p align="center">
-<img src="./img/AppDemo1.gif" alt="Mock Up of App" width="650")
+<img src="./client/public/AppDemo1.gif" alt="Mock Up of App" width="650")
 </p>
 
 <br>
