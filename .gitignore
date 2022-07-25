@@ -24,6 +24,8 @@ yarn-debug.log*
 yarn-error.log*
 
 *.env
-*.code-space
+*.code-workspace
 
 /server/node_modules
+package-lock.json
+
